@@ -7,7 +7,7 @@ A metadata file with deidentified patient information
 
 A raw data file
 
-Code for the pseudobulk analysis
+Code for the pseudobulk analysis (done by Jessica Root)
 
-Code for the single cell analysis
+Code for the single cell analysis (done by Poonam Desai)
 
